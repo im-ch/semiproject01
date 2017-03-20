@@ -5,6 +5,7 @@ public class num1 {
 	public static void main(String[] args) {
 		
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("餵陛濠");
 =======
 		System.out.println("metoo");
@@ -38,7 +39,11 @@ public class num1 {
 		System.out.println("hihi");
 <<<<<<< HEAD
 
+=======
+		System.out.println("六六六六六六六六六六六");
+>>>>>>> branch 'master' of https://github.com/im-ch/semiproject01.git
 		
+<<<<<<< HEAD
 		
 		System.out.println("Sfsdfsdf");		
 		System.out.println("Sfsdfsdf");
@@ -61,6 +66,8 @@ public class num1 {
 		System.out.println("傀傀 螃酈ん酈 畦畦 螃酈紫酈蹂");
 >>>>>>> refs/remotes/origin/num1
 >>>>>>> refs/remotes/origin/hi
+>>>>>>> branch 'master' of https://github.com/im-ch/semiproject01.git
+=======
 >>>>>>> branch 'master' of https://github.com/im-ch/semiproject01.git
 	}
 }
