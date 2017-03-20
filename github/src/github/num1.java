@@ -24,7 +24,7 @@ public class num1 {
 =======
 		System.out.println("ÀÌ°ÍÀÌ´Ù");
 		System.out.println("asfhdsuoptgr4lcvawo7vukifv67v6");
-		
+		System.out.println("³È³È ¿ÀÅ°Æ÷Å° ²¥²¥ ¿ÀÅ°µµÅ°¿ä");
 >>>>>>> refs/remotes/origin/num1
 	}
 
