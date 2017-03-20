@@ -9,6 +9,7 @@ public class num1 {
 		System.out.println("fgfgfglp;klksdfsdfsdfsdfsdf");
 		System.out.println("sdfsdfsdf");
 		System.out.println("sdfsdfs");
+		System.out.println("hihi");
 		
 	}
 
