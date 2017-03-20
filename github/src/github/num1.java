@@ -15,7 +15,7 @@ public class num1 {
 >>>>>>> refs/heads/master
 		System.out.println("hihi");
 		System.out.println("짜증나ㅜ");
-		
+		System.out.println("집에가고싶다.......");
 	}
 
 }
