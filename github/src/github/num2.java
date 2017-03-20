@@ -7,6 +7,11 @@ public class num2 {
 	  System.out.println("璽�� 樹棲朝 餵縑 陛堅 談橫и棻...");
 	  System.out.println("葆牆葆牆");
 	  System.out.println("葆牆葆牆");
+<<<<<<< HEAD
+=======
+	  System.out.println("憲懊鎬??六六六六");
+	  System.out.println("六六六六六六六六六六六六六六六六六六六六六六六六六六六六六六");
+>>>>>>> refs/heads/hi
   }
 
 }
