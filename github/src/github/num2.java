@@ -1,13 +1,9 @@
 public class num2 {
 
   public static void main(String[] args) {
-	  System.out.println("건들지마세요");
-<<<<<<< HEAD
-	  System.out.println("어진이가 좋아하는 치즈 냠냠");
-=======
-	  System.out.println("시간아 가지마....");
-	  System.out.println("어진이가 좋아하는 치즈");
->>>>>>> refs/heads/master
+
+	  System.out.println("어진이가 부르는 트와이스 티티");
+	  System.out.println("머지않아 예쁜 꽃이 될 테니까");
   }
 
 }
