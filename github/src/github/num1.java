@@ -16,6 +16,7 @@ public class num1 {
 		
 		System.out.println("Sfsdfsdf");		
 		System.out.println("Sfsdfsdf");
+		System.out.println("ddd");
 		
 		
 	}
