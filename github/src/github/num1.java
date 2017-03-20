@@ -14,6 +14,7 @@ public class num1 {
 =======
 >>>>>>> refs/heads/master
 		System.out.println("hihi");
+		System.out.println("Β₯Αυ³ͺ€Μ");
 		
 	}
 
