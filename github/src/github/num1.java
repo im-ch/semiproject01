@@ -31,7 +31,9 @@ public class num1 {
 		
 		System.out.println("Sfsdfsdf");		
 		System.out.println("Sfsdfsdf");
+		System.out.println("ddd");
 		
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 		System.out.println("짜증나ㅜ");
@@ -40,6 +42,9 @@ public class num1 {
 >>>>>>> branch 'master' of https://github.com/im-ch/semiproject01.git
 >>>>>>> branch 'master' of https://github.com/im-ch/semiproject01.git
 		
+=======
+		System.out.println("물어보지마");
+>>>>>>> refs/remotes/origin/uijiokkl
 	}
 
 }
