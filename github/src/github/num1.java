@@ -15,7 +15,11 @@ public class num1 {
 >>>>>>> refs/heads/master
 		System.out.println("hihi");
 		System.out.println("짜증나ㅜ");
+<<<<<<< HEAD
 		System.out.println("집에가고싶다.......");
+=======
+		System.out.println("밍밍 집가고 싶다");
+>>>>>>> refs/heads/master
 	}
 
 }
