@@ -10,6 +10,7 @@ public class num1 {
 		System.out.println("sdfsdfsdf");
 		System.out.println("sdfsdfs");
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("hello");
 =======
 >>>>>>> refs/heads/master
@@ -20,6 +21,11 @@ public class num1 {
 =======
 		System.out.println("밍밍 집가고 싶다");
 >>>>>>> refs/heads/master
+=======
+		System.out.println("이것이다");
+		System.out.println("asfhdsuoptgr4lcvawo7vukifv67v6");
+		
+>>>>>>> refs/remotes/origin/num1
 	}
 
 }
