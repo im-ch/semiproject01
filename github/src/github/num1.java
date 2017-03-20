@@ -10,6 +10,7 @@ public class num1 {
 		System.out.println("sdfsdfsdf");
 		System.out.println("sdfsdfs");
 		System.out.println("hello");
+		System.out.println("hihi");
 		
 	}
 
