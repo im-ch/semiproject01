@@ -4,14 +4,16 @@ public class num1 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("metoo");
-		System.out.println("hjjjjhjdr6yfgh");
-		System.out.println("fgfgfglp;klksdfsdfsdfsdfsdf");
-		System.out.println("sdfsdfsdf");
-		System.out.println("sdfsdfs");
-		System.out.println("¿Ã∞Õ¿Ã¥Ÿ");
-		System.out.println("asfhdsuoptgr4lcvawo7vukifv67v6");
+<<<<<<< HEAD
+		System.out.println("sdasdfasdf");
+		System.out.println("∫∫¿Ωπ‰");
+		System.out.println("ªÔº±¬´ªÕ");
+		System.out.println("∞Ì±∏∏∂");
+		System.out.println("ªÁ¿Ã¥Ÿ");
 		
+=======
+	System.out.println("«Ù¥œ«„¥œ-∞≈∫œº±");
+>>>>>>> refs/heads/uijiokkl
 	}
-
 }
+	
