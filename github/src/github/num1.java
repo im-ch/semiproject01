@@ -6,5 +6,6 @@ public class num1 {
 		
 	System.out.println("Á¦¹ß");
 	}
+	
 
 }
