@@ -6,6 +6,7 @@ public class num1 {
 		
 	System.out.println("Á¦¹ß");
 	System.out.println("qqqq");
+	System.out.println("wwww");
 	}
 	
 
