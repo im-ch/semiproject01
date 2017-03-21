@@ -35,8 +35,12 @@ public class num1 {
 >>>>>>> refs/heads/uijiokkl
 =======
 	System.out.println("qqqq");
+<<<<<<< HEAD
 >>>>>>> refs/heads/uijiokkl
 >>>>>>> branch 'master' of https://github.com/im-ch/semiproject01.git
+=======
+	System.out.println("wwww");
+>>>>>>> refs/heads/uijiokkl
 	}
 <<<<<<< HEAD
 =======
