@@ -1,2 +1,1 @@
-INDEX VERSION 1.129+C:\Users\kosta\Desktop\github\.metadata\.plugins\org.eclipse.jdt.core
-2879870711.index
+INDEX VERSION 1.129+C:\Users\kosta\Documents\GitHub\semiproject01\.metadata\.plugins\org.eclipse.jdt.core
