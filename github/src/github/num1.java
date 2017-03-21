@@ -28,7 +28,16 @@ public class num1 {
 >>>>>>> refs/heads/uijiokkl
 =======
 	System.out.println("Á¦¹ß");
+<<<<<<< HEAD
+>>>>>>> refs/heads/uijiokkl
+=======
+	System.out.println("qqqq");
 >>>>>>> refs/heads/uijiokkl
 	}
+<<<<<<< HEAD
+=======
+	
+
+>>>>>>> refs/heads/uijiokkl
 }
 	
